@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Matthew",
+    "score": 2500,
+    "difficulty": "easy",
+    "questions": "6"
+  },
+  {
+    "name": "David",
+    "score": 3584,
+    "difficulty": "easy",
+    "questions": "6"
+  },
+  {
+    "name": "Felix",
+    "score": 5735,
+    "difficulty": "easy",
+    "questions": "6"
+  },
+  {
+    "name": "Burns",
+    "score": 3957,
+    "difficulty": "easy",
+    "questions": "8"
+  },
+  {
+    "name": "James",
+    "score": 1644,
+    "difficulty": "easy",
+    "questions": "8"
+  },
+  {
+    "name": "Carl",
+    "score": 3000,
+    "difficulty": "easy",
+    "questions": "8"
+  },
+  {
+    "name": "Anne",
+    "score": 8476,
+    "difficulty": "easy",
+    "questions": "10"
+  },
+  {
+    "name": "Jacob",
+    "score": 2957,
+    "difficulty": "easy",
+    "questions": "10"
+  },
+  {
+    "name": "Ellie",
+    "score": 2645,
+    "difficulty": "easy",
+    "questions": "10"
+  },
+  {
+    "name": "Damien",
+    "score": 2745,
+    "difficulty": "medium",
+    "questions": "6"
+  },
+  {
+    "name": "Chris",
+    "score": 5346,
+    "difficulty": "medium",
+    "questions": "6"
+  },
+  {
+    "name": "Fabian",
+    "score": 3756,
+    "difficulty": "medium",
+    "questions": "6"
+  },
+  {
+    "name": "Hector",
+    "score": 3000,
+    "difficulty": "medium",
+    "questions": "8"
+  },
+  {
+    "name": "Walter",
+    "score": 3564,
+    "difficulty": "medium",
+    "questions": "8"
+  },
+  {
+    "name": "Hank",
+    "score": 4765,
+    "difficulty": "medium",
+    "questions": "8"
+  },
+  {
+    "name": "Carlos",
+    "score": 8465,
+    "difficulty": "medium",
+    "questions": "10"
+  },
+  {
+    "name": "Javier",
+    "score": 9756,
+    "difficulty": "medium",
+    "questions": "10"
+  },
+  {
+    "name": "Martin",
+    "score": 7758,
+    "difficulty": "medium",
+    "questions": "10"
+  },
+  {
+    "name": "Kurt",
+    "score": 9678,
+    "difficulty": "hard",
+    "questions": "6"
+  },
+  {
+    "name": "Drew",
+    "score": 8678,
+    "difficulty": "hard",
+    "questions": "6"
+  },
+  {
+    "name": "Matthijs",
+    "score": 7956,
+    "difficulty": "hard",
+    "questions": "6"
+  },
+  {
+    "name": "Roxy",
+    "score": 9990,
+    "difficulty": "hard",
+    "questions": "8"
+  },
+  {
+    "name": "John",
+    "score": 6746,
+    "difficulty": "hard",
+    "questions": "8"
+  },
+  {
+    "name": "Peter",
+    "score": 8354,
+    "difficulty": "hard",
+    "questions": "8"
+  },
+  {
+    "name": "Aiden",
+    "score": 9452,
+    "difficulty": "hard",
+    "questions": "10"
+  },
+  {
+    "name": "Hayley",
+    "score": 8745,
+    "difficulty": "hard",
+    "questions": "10"
+  },
+  {
+    "name": "Arnold",
+    "score": 7564,
+    "difficulty": "hard",
+    "questions": "10"
+  }
+]
